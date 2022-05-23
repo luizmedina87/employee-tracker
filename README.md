@@ -18,7 +18,7 @@ Luiz Medina
 https://github.com/luizmedina87
 
 ## Demo
-![project demo](https://github.com/luizmedina87/employee-tracker/blob/main/x/x/x)
+![project demo](https://github.com/luizmedina87/employee-tracker/blob/main/assets/demo.gif)
 
 ## License
 https://opensource.org/licenses/MIT
